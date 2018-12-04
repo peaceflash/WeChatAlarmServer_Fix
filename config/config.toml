@@ -1,0 +1,9 @@
+ServerPort="3033"
+Corpid=""
+Corpsecret=""
+Agentid=
+Touser=""
+Toparty=""
+ToTag=""
+Safe=0
+Msgtype="text"
