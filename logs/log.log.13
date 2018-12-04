@@ -1,4 +1,0 @@
-[2018/11/05 11:33:23 CST] [INFO] (main.Svc:196) The version is :1.1.1
-[2018/11/05 11:33:23 CST] [INFO] (main.Svc:217) listen server addr :0.0.0.0:3322
-[2018/11/05 11:33:34 CST] [INFO] (main.MessageHandle:41) request:127.0.0.1:31040, /, ssss
-[2018/11/05 11:33:35 CST] [EROR] (github.com/ukinhappy/WeChatAlarmServer/control.MessageNotify:54) sendmessage faile err:%!(EXTRA *errors.errorString={"errcode":41001,"errmsg":"access_token missing, hint: [1541388845_6_f65a61c985a00e5319df86e97f499fdc], more info at https://open.work.weixin.qq.com/devtool/query?e=41001"})
