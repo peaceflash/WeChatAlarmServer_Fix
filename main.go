@@ -13,9 +13,9 @@ import (
 	"runtime/debug"
 	"time"
 
-	"github.com/ukinhappy/WeChatAlarmServer/common"
-	"github.com/ukinhappy/WeChatAlarmServer/config"
-	"github.com/ukinhappy/WeChatAlarmServer/control"
+	"github.com/peaceflash/WeChatAlarmServer_Fix/common"
+	"github.com/peaceflash/WeChatAlarmServer_Fix/config"
+	"github.com/peaceflash/WeChatAlarmServer_Fix/control"
 
 
 	l4g "github.com/alecthomas/log4go"

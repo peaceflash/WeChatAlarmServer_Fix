@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/ukinhappy/WeChatAlarmServer/config"
+	"github.com/peaceflash/WeChatAlarmServer_Fix/config"
 
 	"time"
 
